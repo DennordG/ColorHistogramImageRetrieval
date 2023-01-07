@@ -1,0 +1,5 @@
+{
+  "ImageDatabasePath": "D:\\Facultate\\Master\\RIM\\ColorHistogramImageRetrieval\\data",
+  "PreprocessedDatabasePath": "D:\\Facultate\\Master\\RIM\\ColorHistogramImageRetrieval\\preprocessedData",
+  "QueryImage": "red1.png"
+}
